@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/StarterContent/Maps/Barrel_canage.umap",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/StarterContent/Maps/BP_CUBE.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/IndustryPropsPack6/Meshes/BP_CUBE.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/IndustryPropsPack6/Meshes/BP_SPHERE.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/FPWeapon/BP_Gun.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/Blueprints/BP_Pawn.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/StarterContent/Particles/Materials/m_flare_01.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/BP_GUN1.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/BP_Barrel.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/Avantika Rohite/Documents/Unreal Projects/MyProject4/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
